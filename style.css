@@ -1,0 +1,36 @@
+/* h1{
+    background-color: aqua;
+    font-size: smaller;
+    text-align: center;
+}
+footer{
+    font-size: smaller;
+} */
+/* by element */
+p {
+  color: blue;
+}
+
+article {
+  color: red;
+}
+
+section {
+  color: aqua;
+}
+/* by id */
+#article1 {  
+  color: pink;
+}
+/* by class */
+#section2 {
+  color: magenta;
+}
+.paraclass {
+  color: olive;
+}
+/* by group */
+p,
+article,section {
+  width: 800px;
+}
