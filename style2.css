@@ -1,0 +1,29 @@
+/* p{
+    color: blanchedalmond;
+} */
+
+#para1{
+
+    color: black;
+    font-size: 15px;
+    text-align: left;
+    font-style: italic;
+    /* font-weight: 50; */
+    font-family:'Noto Sans TC', sans-serif;;
+    width: 900px;
+    background-color: hsl(59, 100%, 50%);
+}
+
+#para2{
+    
+    font-style: italic;
+    line-height: 30px;
+    color: chartreuse;
+    background-color: crimson;
+}
+
+#para3{
+    font-style: oblique;
+    background-color: rgb(192, 252, 190);
+    color: darkolivegreen;
+}
