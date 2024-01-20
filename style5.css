@@ -1,0 +1,36 @@
+img {
+  margin: 15px;
+}
+div {
+  border: solid black 2px;
+  border-radius: 5px;
+}
+/* #image1{
+
+} */
+.container {
+  position: relative;
+  height: 2000px;
+  margin: 20px;
+}
+#image2 {
+  /* position: relative; */
+  /* top: 100px;
+   left: 100px;
+   right: 100px;
+   bottom: 100px; */
+  /* position: absolute; */
+  top: 100px;
+}
+#image4 {
+  position: fixed;
+}
+#image3 {
+  position: sticky;
+  top: 100px;
+}
+#div2 {
+  background-color: blue;
+  height: 2000px;
+  margin: 20px;
+}
